@@ -138,13 +138,15 @@ desired replica count.
 ## Screenshots
 
 1. Application homepage
-2. Registration page
-3. phpMyAdmin dashboard
-4. Pods running (`kubectl get pods`)
-5. Services running (`kubectl get svc`)
-6. PVC created (`kubectl get pvc`)
-7. Scaling to 3 replicas
-8. Pod recreation after deletion
+
+
+3. Registration page
+4. phpMyAdmin dashboard
+5. Pods running (`kubectl get pods`)
+6. Services running (`kubectl get svc`)
+7. PVC created (`kubectl get pvc`)
+8. Scaling to 3 replicas
+9. Pod recreation after deletion
 
 ## Troubleshooting Notes
 
