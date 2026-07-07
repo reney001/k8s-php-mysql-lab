@@ -146,6 +146,7 @@ desired replica count.
 3. Pods running (`kubectl get pods`)
 ![image alt](https://github.com/reney001/k8s-php-mysql-lab/blob/02dfcbf084e36cf1f77736839a988851efd8fa30/screenshots/Snipaste_2026-07-07_18-10-53.png)
 
+![image alt](https://github.com/reney001/k8s-php-mysql-lab/blob/3c9d6f1b846126eb624dc1bdd8a52f5c9c7dfadc/screenshots/Snipaste_2026-07-07_18-19-40.png)
 
 5. Services running (`kubectl get svc`)
 6. PVC created (`kubectl get pvc`)
