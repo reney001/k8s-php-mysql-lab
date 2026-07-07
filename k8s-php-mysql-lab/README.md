@@ -138,7 +138,7 @@ desired replica count.
 ## Screenshots
 
 1. Application homepage
-
+![image alt](https://github.com/reney001/k8s-php-mysql-lab/blob/c36309487768e7da820e17dafb1cd859f381e10d/screenshots/Snipaste_2026-07-07_20-42-17.png)
 
 3. Registration page
 4. phpMyAdmin dashboard
