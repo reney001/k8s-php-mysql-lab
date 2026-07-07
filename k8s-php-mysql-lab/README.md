@@ -140,13 +140,14 @@ desired replica count.
 1. Application homepage
 ![image alt](https://github.com/reney001/k8s-php-mysql-lab/blob/c36309487768e7da820e17dafb1cd859f381e10d/screenshots/Snipaste_2026-07-07_20-42-17.png)
 
-3. Registration page
-4. phpMyAdmin dashboard
-5. Pods running (`kubectl get pods`)
-6. Services running (`kubectl get svc`)
-7. PVC created (`kubectl get pvc`)
-8. Scaling to 3 replicas
-9. Pod recreation after deletion
+2. phpMyAdmin dashboard
+![image alt](https://github.com/reney001/k8s-php-mysql-lab/blob/6bc2994c62c4f112cb1e92ce927ffc5182d4eed1/screenshots/Snipaste_2026-07-07_20-57-30.png)
+
+3. Pods running (`kubectl get pods`)
+4. Services running (`kubectl get svc`)
+5. PVC created (`kubectl get pvc`)
+6. Scaling to 3 replicas
+7. Pod recreation after deletion
 
 ## Troubleshooting Notes
 
