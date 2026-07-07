@@ -165,6 +165,8 @@ desired replica count.
 
 8. Pod recreation after deletion
 
+![image alt](https://github.com/reney001/k8s-php-mysql-lab/blob/a618f4ccc290c7725886f116d5c8a5b8d04481f0/screenshots/Snipaste_2026-07-07_21-28-51.png)
+
 ## Troubleshooting Notes
 
 - **App pod can't connect to MySQL**: check `DB_HOST` in the ConfigMap
