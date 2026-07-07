@@ -141,20 +141,28 @@ desired replica count.
 ![image alt](https://github.com/reney001/k8s-php-mysql-lab/blob/c36309487768e7da820e17dafb1cd859f381e10d/screenshots/Snipaste_2026-07-07_20-42-17.png)
 
 2. phpMyAdmin dashboard
+
 ![image alt](https://github.com/reney001/k8s-php-mysql-lab/blob/6bc2994c62c4f112cb1e92ce927ffc5182d4eed1/screenshots/Snipaste_2026-07-07_20-57-30.png)
 
-3. Pods running (`kubectl get pods`)
+4. Pods running (`kubectl get pods`)
+   
 ![image alt](https://github.com/reney001/k8s-php-mysql-lab/blob/02dfcbf084e36cf1f77736839a988851efd8fa30/screenshots/Snipaste_2026-07-07_18-10-53.png)
 
 ![image alt](https://github.com/reney001/k8s-php-mysql-lab/blob/3c9d6f1b846126eb624dc1bdd8a52f5c9c7dfadc/screenshots/Snipaste_2026-07-07_18-19-40.png)
 
-![iamge alt](https://github.com/reney001/k8s-php-mysql-lab/blob/351965f75b2ad6c5b49c44934a059ff3a0191fcb/screenshots/Snipaste_2026-07-07_21-20-33.png)
 
 4. Services running (`kubectl get svc`)
 
+![image alt](https://github.com/reney001/k8s-php-mysql-lab/blob/4ef1c762fc3091b0de5d532f13ec064fc2a5fb09/screenshots/Snipaste_2026-07-07_20-36-26.png)
+
 6. PVC created (`kubectl get pvc`)
+
+
 7. Scaling to 3 replicas
-8. Pod recreation after deletion
+
+![iamge alt](https://github.com/reney001/k8s-php-mysql-lab/blob/351965f75b2ad6c5b49c44934a059ff3a0191fcb/screenshots/Snipaste_2026-07-07_21-20-33.png)
+
+9. Pod recreation after deletion
 
 ## Troubleshooting Notes
 
