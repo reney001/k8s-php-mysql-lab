@@ -144,10 +144,13 @@ desired replica count.
 ![image alt](https://github.com/reney001/k8s-php-mysql-lab/blob/6bc2994c62c4f112cb1e92ce927ffc5182d4eed1/screenshots/Snipaste_2026-07-07_20-57-30.png)
 
 3. Pods running (`kubectl get pods`)
-4. Services running (`kubectl get svc`)
-5. PVC created (`kubectl get pvc`)
-6. Scaling to 3 replicas
-7. Pod recreation after deletion
+![image alt](https://github.com/reney001/k8s-php-mysql-lab/blob/02dfcbf084e36cf1f77736839a988851efd8fa30/screenshots/Snipaste_2026-07-07_18-10-53.png)
+
+
+5. Services running (`kubectl get svc`)
+6. PVC created (`kubectl get pvc`)
+7. Scaling to 3 replicas
+8. Pod recreation after deletion
 
 ## Troubleshooting Notes
 
