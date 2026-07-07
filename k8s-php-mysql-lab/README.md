@@ -157,12 +157,13 @@ desired replica count.
 
 6. PVC created (`kubectl get pvc`)
 
+![image alt](https://github.com/reney001/k8s-php-mysql-lab/blob/55f9c8784e9c016c6b8bfce3eeecbf1233adf3af/screenshots/Snipaste_2026-07-07_18-12-34.png)
 
 7. Scaling to 3 replicas
 
 ![iamge alt](https://github.com/reney001/k8s-php-mysql-lab/blob/351965f75b2ad6c5b49c44934a059ff3a0191fcb/screenshots/Snipaste_2026-07-07_21-20-33.png)
 
-9. Pod recreation after deletion
+8. Pod recreation after deletion
 
 ## Troubleshooting Notes
 
